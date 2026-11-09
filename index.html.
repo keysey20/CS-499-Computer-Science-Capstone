@@ -221,22 +221,32 @@
       </div>
     </section>
 
+    
     <section id="review">
       <h2>Code Review</h2>
       <div class="card">
+        <h3>CS-499 Capstone Code Review</h3>
         <p>
-          My code review will examine selected original software
-          artifacts, identify opportunities for improvement,
-          and explain my proposed enhancements across software
-          engineering, algorithms and data structures, and databases.
+          This code review examines original programming artifacts
+          developed throughout my Computer Science degree at
+          Southern New Hampshire University.
         </p>
         <p>
-          The completed code review video and supporting materials
-          will be added as the capstone progresses.
+          I discuss opportunities for improvement in software
+          design and engineering, algorithms and data structures,
+          and databases. The review explains my planned
+          enhancements and the technical decisions behind them.
         </p>
-        <span class="status">In development</span>
+        <a class="button"
+           href="https://youtu.be/v5hFZFrSy68"
+           target="_blank"
+           rel="noopener noreferrer">
+          Watch My Code Review Video
+        </a>
+        <p>Video duration: approximately 51 minutes.</p>
       </div>
     </section>
+
 
     <section id="enhancements">
       <h2>Technical Enhancements</h2>
